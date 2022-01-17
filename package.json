@@ -20,7 +20,7 @@
     "@actions/exec": "^1.0.4",
     "@actions/io": "^1.0.2",
     "@actions/tool-cache": "^1.6.0",
-    "glob": "^7.1.6",
+    "glob": "^7.2.0",
     "mz": "^2.7.0",
     "valid-url": "^1.0.9"
   },
